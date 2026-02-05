@@ -34,7 +34,10 @@ Make sure you have these installed:
    ```bash
    git clone https://github.com/yourusername/hrms-lite.git
    cd hrms-lite/backend
+   ```
 2 **Run**
+ ```bash
   pip install -r requirements.txt
   .\.venv\Scripts\activate    
   py main.py or uvicorn main:app
+```
