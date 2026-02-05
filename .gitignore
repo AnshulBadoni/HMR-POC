@@ -1,0 +1,4 @@
+.venv
+/frontend
+__pycache__/*
+.env
